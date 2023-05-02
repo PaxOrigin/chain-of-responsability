@@ -1,0 +1,12 @@
+C:\Users\aless\Documents\Visual Studio Code\C# Course\Personal_Repository\Design Patterns\Chain OF Responsability\ChainOfResponsability\ChainOfRespClasses\bin\Debug\net6.0\ChainOfRespClasses.deps.json
+C:\Users\aless\Documents\Visual Studio Code\C# Course\Personal_Repository\Design Patterns\Chain OF Responsability\ChainOfResponsability\ChainOfRespClasses\bin\Debug\net6.0\ChainOfRespClasses.dll
+C:\Users\aless\Documents\Visual Studio Code\C# Course\Personal_Repository\Design Patterns\Chain OF Responsability\ChainOfResponsability\ChainOfRespClasses\bin\Debug\net6.0\ChainOfRespClasses.pdb
+C:\Users\aless\Documents\Visual Studio Code\C# Course\Personal_Repository\Design Patterns\Chain OF Responsability\ChainOfResponsability\ChainOfRespClasses\obj\Debug\net6.0\ChainOfRespClasses.csproj.AssemblyReference.cache
+C:\Users\aless\Documents\Visual Studio Code\C# Course\Personal_Repository\Design Patterns\Chain OF Responsability\ChainOfResponsability\ChainOfRespClasses\obj\Debug\net6.0\ChainOfRespClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\Documents\Visual Studio Code\C# Course\Personal_Repository\Design Patterns\Chain OF Responsability\ChainOfResponsability\ChainOfRespClasses\obj\Debug\net6.0\ChainOfRespClasses.AssemblyInfoInputs.cache
+C:\Users\aless\Documents\Visual Studio Code\C# Course\Personal_Repository\Design Patterns\Chain OF Responsability\ChainOfResponsability\ChainOfRespClasses\obj\Debug\net6.0\ChainOfRespClasses.AssemblyInfo.cs
+C:\Users\aless\Documents\Visual Studio Code\C# Course\Personal_Repository\Design Patterns\Chain OF Responsability\ChainOfResponsability\ChainOfRespClasses\obj\Debug\net6.0\ChainOfRespClasses.csproj.CoreCompileInputs.cache
+C:\Users\aless\Documents\Visual Studio Code\C# Course\Personal_Repository\Design Patterns\Chain OF Responsability\ChainOfResponsability\ChainOfRespClasses\obj\Debug\net6.0\ChainOfRespClasses.dll
+C:\Users\aless\Documents\Visual Studio Code\C# Course\Personal_Repository\Design Patterns\Chain OF Responsability\ChainOfResponsability\ChainOfRespClasses\obj\Debug\net6.0\refint\ChainOfRespClasses.dll
+C:\Users\aless\Documents\Visual Studio Code\C# Course\Personal_Repository\Design Patterns\Chain OF Responsability\ChainOfResponsability\ChainOfRespClasses\obj\Debug\net6.0\ChainOfRespClasses.pdb
+C:\Users\aless\Documents\Visual Studio Code\C# Course\Personal_Repository\Design Patterns\Chain OF Responsability\ChainOfResponsability\ChainOfRespClasses\obj\Debug\net6.0\ref\ChainOfRespClasses.dll
